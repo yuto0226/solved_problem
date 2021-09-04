@@ -1,3 +1,4 @@
+//Zero Judge a049
 #include <iostream>
 using namespace std;
 

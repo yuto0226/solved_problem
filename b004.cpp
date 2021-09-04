@@ -1,4 +1,4 @@
-//green judge b004
+//Zero Fudge b004
 #include <iostream>
 using namespace std;
 
