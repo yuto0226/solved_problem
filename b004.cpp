@@ -1,4 +1,4 @@
-//Zero Fudge b004
+//Zero Judge b004
 #include <iostream>
 using namespace std;
 
