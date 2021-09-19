@@ -10,7 +10,5 @@ int main(){
         str[i]-=7;
         cout<<str[i];
     }
-    
-    
     return 0;
 }
