@@ -1,6 +1,5 @@
 // CodeForces 4A
 // AC | 622 ms | 0 KB
-package codeforces;
 import java.util.Scanner;
 
 public class c_4a {
