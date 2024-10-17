@@ -1,3 +1,5 @@
 *.exe
 example.cpp
-/WA/*
+*.txt
+*.in
+*.out
